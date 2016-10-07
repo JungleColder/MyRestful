@@ -1,0 +1,2 @@
+1：最好把发布的文件“只读”属性去掉
+2：发布到IIS时，访问的ip需要与绑定的ip一致，不然访问接口地址会报：Bad Request - Invalid Hostname
